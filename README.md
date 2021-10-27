@@ -1,5 +1,5 @@
-# Internet Of Things | Worksheet 2 Part 1
-This gitlab repo contains the resources for worksheet 2 part 1
+# UWE Assignment Year 2 | Internet Of Things | Worksheet 2 Part 1
+This github repo contains the resources for worksheet 2 part 1 for internet of things
 
 ## Contents
 1. [Task 1](#Task-1)
